@@ -3,9 +3,9 @@
 ![Flipside-01-01.png](./Contents/Flipside-01-01.png)
 
 <center>
-
-[Open in notion](https://eferbarn.notion.site/eferbarn/How-to-use-Flipside-out-of-Flipside-68a7be55e7be48deb12f270634d5d551)
-
+<a href='https://eferbarn.notion.site/eferbarn/How-to-use-Flipside-out-of-Flipside-68a7be55e7be48deb12f270634d5d551'>
+<img alt='Open in notion' src='https://badgen.net/badge/open%20in/notion/grey' />
+</a>
 </center>
 
 # Introduction
