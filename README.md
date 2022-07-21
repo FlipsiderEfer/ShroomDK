@@ -2,6 +2,12 @@
 
 ![Flipside-01-01.png](./Contents/Flipside-01-01.png)
 
+<center>
+
+[Open in notion](https://eferbarn.notion.site/eferbarn/How-to-use-Flipside-out-of-Flipside-68a7be55e7be48deb12f270634d5d551)
+
+</center>
+
 # Introduction
 
 There are many interfaces to interact with a web service. **GUI**s$^1$ are the most common interfaces to use a service on the web, but they are not the only choices.
