@@ -4,7 +4,7 @@
 
 <center>
 <a href='https://eferbarn.notion.site/eferbarn/How-to-use-Flipside-out-of-Flipside-68a7be55e7be48deb12f270634d5d551'>
-<img alt='Open in notion' src='https://badgen.net/badge/open%20in/notion/grey' />
+<img alt='Open in notion' src='https://badgen.net/badge/Open%20in/notion/grey' />
 </a>
 </center>
 
