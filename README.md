@@ -2,8 +2,6 @@
 
 ![Flipside-01-01.png](./Contents/Flipside-01-01.png)
 
-**Table of contents:**
-
 # Introduction
 
 There are many interfaces to interact with a web service. **GUI**s$^1$ are the most common interfaces to use a service on the web, but they are not the only choices.
